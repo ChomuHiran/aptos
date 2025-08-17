@@ -56,5 +56,6 @@ Usage: Call functions through Aptos SDK or CLI
 Support
 For technical support, feature requests, or partnership inquiries, please open an issue in this repository or contact our development team.
 
-Built with ❤️ on Aptos Blockchain
+Built with <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/005a983c-b957-425f-855e-47b9b29a9780" />
+❤️ on Aptos Blockchain
 
